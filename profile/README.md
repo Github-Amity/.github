@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-We are GitHub-Amity, an organization dedicated to making learning more fun.  
+**We are GitHub-Amity, an organization dedicated to making learning more fun.**  
+  
 Visit our [website](https:github-amity.github.io)
 
-Projects list:
+### Projects list:
 - [Java Objects](https://github.com/Github-Amity/JavaObjects)
 - [Java Classes](https://github.com/Github-Amity/JavaOClasses)
 - [Java Basics 1](https://github.com/Github-Amity/JavaBasics1)
@@ -11,7 +12,7 @@ Projects list:
 - [Abstraction](https://github.com/Github-Amity/Abstraction)
 - [Interfaces](https://github.com/Github-Amity/Interfaces)
 - [Threads](https://github.com/Github-Amity/Threads)
-- [Exceptions](https://github.com/Github-Amity/Exceptions
+- [Exceptions](https://github.com/Github-Amity/Exceptions)
 
 <!--
 
