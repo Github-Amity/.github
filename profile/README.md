@@ -6,7 +6,7 @@ Visit our [website](https:github-amity.github.io)
 
 ### Projects list:
 - [Java Objects](https://github.com/Github-Amity/JavaObjects)
-- [Java Classes](https://github.com/Github-Amity/JavaOClasses)
+- [Java Classes](https://github.com/Github-Amity/JavaClasses)
 - [Java Basics 1](https://github.com/Github-Amity/JavaBasics1)
 - [Java Basics 2](https://github.com/Github-Amity/JavaBasics2)
 - [Abstraction](https://github.com/Github-Amity/Abstraction)
