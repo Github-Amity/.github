@@ -2,7 +2,7 @@
 
 **We are GitHub-Amity, an organization dedicated to making learning more fun.**  
   
-Visit our [website](https:github-amity.github.io)
+Visit our [website](https://github-amity.github.io)
 
 ### Projects list:
 - [Java Objects](https://github.com/Github-Amity/JavaObjects)
